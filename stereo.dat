@@ -1,0 +1,6 @@
+5mN_seg_mask(1,1,1)(1016,1024,731)    /File will be read (limited to 50-char)
+1        100                  / Clusters to be processed
+0.0      0.2                  / Range of isotropy index to be selected
+5mN_seg_mask(1,1,1)(1016,1024,731)
+300      1000
+0.0      0.2
